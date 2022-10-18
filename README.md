@@ -1,7 +1,7 @@
 # Fitbook App
 ## _Share your own recipes for everyone_
 
-<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:6984155082858606592" height="1041" width="504" frameborder="0" allowfullscreen="" title="Gömülü gönderi"></iframe>
+[Video] <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:6984155082858606592" height="1041" width="504" frameborder="0" allowfullscreen="" title="Gömülü gönderi"></iframe>
 
 https://github.com/tolgabayra
 
